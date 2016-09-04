@@ -454,6 +454,8 @@ fieldset[disabled] .btn-primary.active {
     padding: 15px 30px;
 }
 
+.collapse.navbar-collapse{margin-right:20px}
+
 ::-moz-selection {
     text-shadow: none;
     color: #fff;
