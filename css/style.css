@@ -267,6 +267,8 @@ header .header-content .header-content-inner p {
     max-width:260px;
 }
 
+.portfolio-box{width:260px;height:139px;}
+
 .portfolio-type{margin-top:10px;text-align:center;}
 
 .portfolio-box .portfolio-box-caption {
